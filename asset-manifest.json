@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CountryFlags/static/css/main.33a2608b.css",
+    "main.js": "/CountryFlags/static/js/main.954374a7.js",
+    "index.html": "/CountryFlags/index.html",
+    "main.33a2608b.css.map": "/CountryFlags/static/css/main.33a2608b.css.map",
+    "main.954374a7.js.map": "/CountryFlags/static/js/main.954374a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33a2608b.css",
+    "static/js/main.954374a7.js"
+  ]
+}
